@@ -1,0 +1,102 @@
+canonical_identifier: bkk:krp/KR6q0157/X/v1
+canonical_location: https://kanripo.org/bkk/KR6q0157/X/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 禪林寶訓筆說
+  identifiers:
+    krp: KR6q0157
+    cbeta: X64n1266
+    cbeta_old_id: X64n1266
+    authorityid: CA0000390
+    json_key: X1266
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/X/X64/X64n1266.xml
+    old_id: X64n1266
+  edition:
+    short: X
+assets:
+  parts:
+  - {seq: 0, filename: KR6q0157_000-X.yaml, hash: 'sha256:70166c7fb2145b4f4bfee6d5acec246ac53ceb28fab14249bd9362ff0dcee5e7'}
+  - {seq: 1, filename: KR6q0157_001-X.yaml, hash: 'sha256:31b2e8d5ae45e2c129d2b82b347c85fecead859fda3a990c10861ed0d31aa56c'}
+  - {seq: 2, filename: KR6q0157_002-X.yaml, hash: 'sha256:143864477c44eb7a5470bd702ed04cbf44b99af867483b04bacc1a7ed2d108ba'}
+  - {seq: 3, filename: KR6q0157_003-X.yaml, hash: 'sha256:67d18ef39f29929cd09af0d39eab6112a48dadba9d8aa6d01a554cc5b0276dee'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR6q0157_000-X.markers.yaml, hash: 'sha256:f6a2e775db037ffedc7d66e3ee2b306f9561a3f83a5cb4a81c2a4c1492c38745'}
+  - {seq: 1, role: markers, filename: assets/KR6q0157_001-X.markers.yaml, hash: 'sha256:72be723fdd063c77b90b5f521af31ae8a58b58b945408c1f6cea2a9bca181b25'}
+  - {seq: 2, role: markers, filename: assets/KR6q0157_002-X.markers.yaml, hash: 'sha256:867e9a9aa603df8b2aa7981e89f5be041f460740cad77b527e68983dc7717188'}
+  - {seq: 3, role: markers, filename: assets/KR6q0157_003-X.markers.yaml, hash: 'sha256:7cf0f6874a1a5f052a4acbd5f3bfa82dc28e2ba442819a621218e92a2f21405a'}
+table_of_contents:
+- ref:
+    seq: 0
+    marker_id: KR6q0157_X_000-mulu-1
+    span:
+    - front
+    - 0
+    - 0
+  label: No. 1266-A 禪林寶訓筆說序
+  type: mulu
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR6q0157_X_000-mulu-2
+    span:
+    - front
+    - 407
+    - 407
+  label: 禪林寶訓筆說
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6q0157_X_001-juan-start
+    span:
+    - body
+    - 0
+    - 38628
+  label: 禪林重刻寶訓筆說卷上
+  type: juan
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6q0157_X_002-juan-start
+    span:
+    - body
+    - 0
+    - 45590
+  label: 禪林重刻寶訓筆說卷中
+  type: juan
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6q0157_X_003-juan-start
+    span:
+    - body
+    - 0
+    - 52936
+  label: 禪林重刻寶訓筆說卷下
+  type: juan
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6q0157_X_003-mulu-1
+    span:
+    - body
+    - 49426
+    - 49426
+  label: No. 1266-B 左都御史張照得天居士 心賦(并序)
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6q0157_X_003-mulu-2
+    span:
+    - body
+    - 51814
+    - 51814
+  label: No. 1266-C 上諭
+  type: mulu
+  level: 1
+hash: sha256:094d9dd96e4da6abba668aae2879253ef91c80397ce84eed10518f373445e9da
