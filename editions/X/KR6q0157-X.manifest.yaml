@@ -19,12 +19,12 @@ metadata:
     short: X
 assets:
   parts:
-  - {seq: 0, filename: KR6q0157_000-X.yaml, hash: 'sha256:70166c7fb2145b4f4bfee6d5acec246ac53ceb28fab14249bd9362ff0dcee5e7'}
+  - {seq: 0, filename: KR6q0157_000-X.yaml, hash: 'sha256:7e771e8c5969949fb47f73627c23cc133005acb8cc759f1d48efe937bfc92fa2'}
   - {seq: 1, filename: KR6q0157_001-X.yaml, hash: 'sha256:31b2e8d5ae45e2c129d2b82b347c85fecead859fda3a990c10861ed0d31aa56c'}
   - {seq: 2, filename: KR6q0157_002-X.yaml, hash: 'sha256:143864477c44eb7a5470bd702ed04cbf44b99af867483b04bacc1a7ed2d108ba'}
   - {seq: 3, filename: KR6q0157_003-X.yaml, hash: 'sha256:67d18ef39f29929cd09af0d39eab6112a48dadba9d8aa6d01a554cc5b0276dee'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR6q0157_000-X.markers.yaml, hash: 'sha256:f6a2e775db037ffedc7d66e3ee2b306f9561a3f83a5cb4a81c2a4c1492c38745'}
+  - {seq: 0, role: markers, filename: assets/KR6q0157_000-X.markers.yaml, hash: 'sha256:eaa1bcdd725fe8994c92d692d32ecdd7fb07362b837c4fddfedd35b4ef6f3c1c'}
   - {seq: 1, role: markers, filename: assets/KR6q0157_001-X.markers.yaml, hash: 'sha256:72be723fdd063c77b90b5f521af31ae8a58b58b945408c1f6cea2a9bca181b25'}
   - {seq: 2, role: markers, filename: assets/KR6q0157_002-X.markers.yaml, hash: 'sha256:867e9a9aa603df8b2aa7981e89f5be041f460740cad77b527e68983dc7717188'}
   - {seq: 3, role: markers, filename: assets/KR6q0157_003-X.markers.yaml, hash: 'sha256:7cf0f6874a1a5f052a4acbd5f3bfa82dc28e2ba442819a621218e92a2f21405a'}
@@ -33,7 +33,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6q0157_X_000-mulu-1
     span:
-    - front
+    - body
     - 0
     - 0
   label: No. 1266-A 禪林寶訓筆說序
@@ -43,7 +43,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6q0157_X_000-mulu-2
     span:
-    - front
+    - body
     - 407
     - 407
   label: 禪林寶訓筆說
@@ -99,4 +99,4 @@ table_of_contents:
   label: No. 1266-C 上諭
   type: mulu
   level: 1
-hash: sha256:094d9dd96e4da6abba668aae2879253ef91c80397ce84eed10518f373445e9da
+hash: sha256:1254e76e30c1a31fb8ba7ea7e72c0d076f17a583bbc71bffc12a7437cb6042eb
